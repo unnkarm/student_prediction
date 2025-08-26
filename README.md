@@ -16,3 +16,10 @@ This project predicts whether a student will **Pass** or **Fail** based on study
   - Interactive prediction for user input
 
 ## 📂 Project Structure
+student-performance-predictor/
+│
+├── student_data.csv          # Your dataset (or a sample)
+├── predictor.py              # Main Python script
+├── requirements.txt          # Python dependencies
+├── README.md                 # Documentation
+└── .gitignore                # Ignore unnecessary files
